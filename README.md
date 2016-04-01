@@ -3,8 +3,8 @@
 ## 회의록
 - https://github.com/our-company-membership/document/wiki
 
-## UI Reference
-- https://github.com/our-company-membership/document/wiki/UI-Reference
+## 설계
+- https://github.com/our-company-membership/document/wiki/%EC%84%A4%EA%B3%84
 
 ## Proto-Now
 - http://me2.do/FE6Asp7y
