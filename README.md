@@ -8,3 +8,6 @@
 
 ## UI
 - https://xd.adobe.com/view/8bfaecf9-d868-4db8-6580-211258191aa6/
+
+## Admin Page
+- [바로가기](http://10.113.217.214:9001/ally/admin/main)
